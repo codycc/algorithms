@@ -1,11 +1,8 @@
-
-//: Playground - noun: a place where people can play
-
 import UIKit
 
-print(123)
+// Take the string "Today was a nice day" and write a function to return it as "day nice a was today"
+
 var string = "Today was a nice day"
-//want to return "day nice a was today"
 
 func reverseStr(str: String) -> String {
     let newArray = str.components(separatedBy: " ")

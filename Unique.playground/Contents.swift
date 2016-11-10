@@ -1,6 +1,7 @@
-//: Playground - noun: a place where people can play
 
 import UIKit
+
+// GIVEN AN ARRAY, CREATE A FUNCTION THAT RETURNS A NEW ARRAY WITH ONLY THE UNIQUE VALUES 
 
 var names = ["bob", "jack", "bob", "ariel","cody"]
 
